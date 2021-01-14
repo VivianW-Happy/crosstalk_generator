@@ -1,2 +1,2 @@
 # crosstalk_generator
- Automatically generating crosstalk based onLSTM
+ Automatically generating crosstalk based on LSTM
